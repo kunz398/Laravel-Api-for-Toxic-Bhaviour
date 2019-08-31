@@ -9,8 +9,10 @@
 ```
 3) The ***ValidationController.php*** contains the Code for making the prediction on the Toxicity Modal
 
-4) The ***Demo.php*** contains a front end view as shown beloww
-![enter image description here](https://github.com/kunz398/Laravel_ML-TensorFlow-Api-for-Toxic-Text/blob/master/Screenshot_8.png)
+4) The ***Demo.php*** contains a front end view as shown below
+
+![enter image description here](https://github.com/kunz398/Laravel_ML-TensorFlow-Api-for-Toxic-Text/blob/master/Screenshot_7.png)
+
 5) ***api.php*** contains the api route
 
 6) how to make the API Call: 
